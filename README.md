@@ -1,6 +1,6 @@
 # cli-audio
 
-This is an incredibly simplistic CLI audio player.  The purpose is not to be a complete solution, but a starter project for students to enhance.  Written for a CIS 343 class at GVSU.
+This is an incredibly simplistic CLI audio player.  The purpose is not to be a complete solution, but a starter project for students to enhance.  Written for a CIS 343 (Structures of Programming languages) class at GVSU.
 
 Note that in its current state it only plays .wav files.
 
